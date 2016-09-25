@@ -1,0 +1,11 @@
+{# Root HTML template for all pages #}
+<!DOCTYPE html>
+
+<html>
+{# <head> #}
+{% include 'head.njx' %}
+
+<body>
+
+</body>
+</html>
